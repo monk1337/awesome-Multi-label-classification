@@ -50,4 +50,16 @@
   
 ## Code
 
+- **Multi-Label Text Classification**
+   - [[Code]](https://github.com/RandolphVI/Multi-Label-Text-Classification)
+   
+- **Deep neural network framework for multi-label text classification**
+   - [[Code]](https://github.com/inspirehep/magpie)
+   
+- **Bert Multi-Label Text Classification**
+   - [[Code]](https://github.com/lonePatient/Bert-Multi-Label-Text-Classification)
+   
+   
+
+
 
