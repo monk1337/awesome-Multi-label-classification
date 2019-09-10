@@ -8,11 +8,14 @@
 </p>
 
 
-##### Table of Contents  
+##### Table of Contents
 
-1. [Natural language processing](#NLP)  
-2. [Computer vision](#Computer-vision)
-3. [Researchers](#Researchers)
+1. [Papers](#NLP-papers)  
+2. [Code](#multi-label-classification)
+3. [datasets](#datasets)
+4. [Tutorials](#Tutorials)
+5. [Researchers](#Researchers)
+
 
 
 
