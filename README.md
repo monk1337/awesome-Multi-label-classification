@@ -38,6 +38,10 @@
   - Jinseok NamJungi, KimEneldo Loza MencíaIryna, Gurevych, Johannes Fürnkranz
   - [[Paper]](https://arxiv.org/pdf/1312.5419)
 
-
-
-
+- **Effective multi-label active learning for text classification**
+  - Yang, Bishan and Sun, Jian-Tao and Wang, Tengjiao and Chen, Zheng
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=1557119)
+  
+- **Classifier chains for multi-label classification**
+  - Jesse Read, Bernhard Pfahringer, Geoff Holmes, and Eibe Frank
+  - [[Paper]](https://link.springer.com/content/pdf/10.1007/978-3-642-04174-7_17.pdf)
