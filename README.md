@@ -50,7 +50,15 @@
   - Jesse Read, Bernhard Pfahringer, Geoff Holmes, and Eibe Frank
   - [[Paper]](https://link.springer.com/content/pdf/10.1007/978-3-642-04174-7_17.pdf)
   
+- **A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification**
+  - Pengcheng Yang, Shuming Ma, Yi Zhang, Junyang Lin, Qi Su, Xu Sun
+  - [[Paper]](https://arxiv.org/pdf/1809.03118.pdf)
+
+- **Ensemble Application of Convolutional and Recurrent Neural Networks for Multi-label Text Categorization
+- Guibin Chen, Deheng Ye, Zhenchang Xing, Jieshan Chen, Erik Cambria
+- [[Paper]] (https://sentic.net/convolutional-and-recurrent-neural-networks-for-text-categorization.pdf)
   
+ 
 ## Code
 
 - **Multi-Label Text Classification**
