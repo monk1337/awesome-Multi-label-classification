@@ -55,8 +55,8 @@
   - [[Paper]](https://arxiv.org/pdf/1809.03118.pdf)
 
 - **Ensemble Application of Convolutional and Recurrent Neural Networks for Multi-label Text Categorization**
- - Guibin Chen, Deheng Ye, Zhenchang Xing, Jieshan Chen, Erik Cambria
- -  [[Paper]](https://sentic.net/convolutional-and-recurrent-neural-networks-for-text-categorization.pdf)
+  - Guibin Chen, Deheng Ye, Zhenchang Xing, Jieshan Chen, Erik Cambria
+  -  [[Paper]](https://sentic.net/convolutional-and-recurrent-neural-networks-for-text-categorization.pdf)
   
  
 ## Code
